@@ -224,16 +224,5 @@ financial_path = r'Your_Path\Simplize_FPT_FinancialIndicator_20250315.xlsx'
 
 > ⚠️ **Lưu ý quan trọng:** Đây là bài tập học thuật, phân tích dữ liệu lịch sử cho mục đích học tập. KHÔNG PHẢI là khuyến nghị đầu tư. Mọi quyết định đầu tư cần được cân nhắc kỹ lưỡng với tư vấn chuyên môn.
 
-## 📧 Thông Tin Liên Hệ
-
-**Nhóm thực hiện:**
-- 📧 Nguyễn Đức Minh: ducminh.24022404@student.edu.vn
-- 📧 Dương Lý Khánh Hạ: khanhha.23020362@student.edu.vn
-
----
-
-**Ngày hoàn thành:** 15/03/2025  
-**Version:** 2.0 Final  
-**Grade Expected:** 9-10/10 🎯
 
 *© 2025 - Bài tập môn Khai phá và Phân tích Dữ liệu*
