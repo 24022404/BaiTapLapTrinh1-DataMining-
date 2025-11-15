@@ -2,10 +2,10 @@
 
 ## 👥 Thông Tin Nhóm
 
-| STT | Họ và Tên | MSSV |
+| STT | Họ và Tên | MSSV | 
 |-----|-----------|------|
-| 1 | **Nguyễn Đức Minh** | 
-| 2 | **Dương Lý Khánh Hạ** | 
+| 1 | **Nguyễn Đức Minh** | 24022404 | 
+| 2 | **Dương Lý Khánh Hạ** | 23020362 | 
 
 **Môn học:** Khai phá và Phân tích Dữ liệu  
 **Giảng viên:** [Tên giảng viên]  
